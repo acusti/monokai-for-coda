@@ -1,4 +1,18 @@
-monokai-for-coda
-================
+Monokai color style sheet for Coda 2
+====================================
 
-The [Monokai editor colour scheme][http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/] adapted for use with Coda 2
+This is the [Monokai editor colour scheme][monokai] adapted for [Coda 2][coda] by [Justin Hileman][jh].
+
+  [coda]:    http://panic.com/coda/
+  [jh]:      http://justinhileman.com
+  [monokai]: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme
+
+Installation
+------------
+
+Import via the Coda color preferences pane. For the other configurable colors, use these values:
+
+ * Document Background Color: `#272822`
+ * Document Text Color:       `#f8f8f2`
+ * Invisible Character Color: `#3b3a32`
+ * Line Highlight Color:      `#19191d`
